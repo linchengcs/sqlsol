@@ -1,0 +1,13 @@
+gradle*
+.gradle/
+.idea/
+build/
+log/
+data/
+out/
+*gradle*
+target/
+*~
+log/
+
+
