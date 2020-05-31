@@ -36,7 +36,7 @@ dependencies {
 }
 
 // Define the main class for the application
-mainClassName = 'App'
+mainClassName = 'solver.MESolver'
 
 task statsAgent(type: Jar, dependsOn: classes) {
     manifest {
